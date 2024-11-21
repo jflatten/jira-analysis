@@ -59,9 +59,7 @@ To use the script, you need to provide your Jira server URL, username/email, JQL
 ## Author
 
 James "Davin" Flatten
-Digital Transformation Manager | ARCHITECTURE, DATABASES & ANALYTICS 
-(413) 535-4087 (office) 
-JFlatten@iso-ne.com 
+<davin.flatten@asciionly.com>
 
 ## License
 
