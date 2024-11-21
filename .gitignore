@@ -1,0 +1,4 @@
+# Ignore local output and running files
+*.pem
+*.csv
+*.xlsx
